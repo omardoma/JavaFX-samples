@@ -1,0 +1,7 @@
+.progress-bar .bar { 
+    -fx-background-color: rgb(9, 124, 2);
+}
+
+.progress-indicator .progress { 
+    -fx-background-color: rgb(9, 124, 2);
+}

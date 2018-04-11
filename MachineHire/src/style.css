@@ -1,0 +1,11 @@
+.root {
+    -fx-background: rgb(225.0, 228.0, 203.0);
+}
+
+.button {
+	-fx-background-color: rgb(135.0, 148.0, 54.0);
+}
+
+.button:hover {
+    -fx-border-color: rgb(23.0, 163.0, 208.0);
+}
